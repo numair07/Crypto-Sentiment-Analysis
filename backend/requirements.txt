@@ -1,0 +1,9 @@
+transformers
+torch
+tensorflow
+tqdm
+pandas
+scikit-learn
+nltk
+flask
+flask-cors
