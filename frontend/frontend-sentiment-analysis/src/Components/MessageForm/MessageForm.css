@@ -1,0 +1,10 @@
+.input-form {
+    width: 50%;
+    margin: auto;
+    margin-top: 10%;
+}
+
+.description-ac, .output {
+    width: 100%;
+    text-align: center;
+}
