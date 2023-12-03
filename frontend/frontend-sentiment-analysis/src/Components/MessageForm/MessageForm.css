@@ -1,10 +1,21 @@
 .input-form {
-    width: 50%;
-    margin: auto;
-    margin-top: 10%;
+    width: 80%;
+    margin: 2%;
+    margin-top: 5%;
 }
 
-.description-ac, .output {
+.description .output {
     width: 100%;
-    text-align: center;
+}
+
+.ant-col.ant-col-8.ant-form-item-label.css-dev-only-do-not-override-2q8sxy {
+    flex: 0 0 10%;
+}
+
+.ant-col.ant-col-16.ant-col-offset-8.ant-form-item-control.css-dev-only-do-not-override-2q8sxy {
+    margin-inline-start: 8%;
+}
+
+button {
+    background-color: #8EA7E9;
 }

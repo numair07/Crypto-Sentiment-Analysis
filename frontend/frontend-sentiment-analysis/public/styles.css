@@ -1,0 +1,10 @@
+body {
+    background-color: #FFF6F6;
+    font-family: 'Montserrat, sans-serif',
+}
+
+#root {
+    width: 100vw;
+    margin: 0;
+    padding: 0;
+}
